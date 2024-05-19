@@ -1,2 +1,2 @@
 # quiz-app
-https://github.com/Talha836902
+https://talha836902.github.io/quiz-app/
